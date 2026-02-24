@@ -4,7 +4,6 @@
 
 **Junior Data Analyst | SQL | Python | Power BI | Data Analysis & AI-Driven Insights**
 
-📍 Washington, DC  
 📧 marta.development@gmail.com  
 🔗 GitHub: https://github.com/martamathias  
 
