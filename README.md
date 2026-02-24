@@ -1,6 +1,6 @@
 # Hi, I'm Marta Mamo 👋
 
-**Junior Data Analyst | SQL • Python • Power BI | Data Analysis & AI-Driven Insights**
+**Junior Data Analyst | SQL | Python | Power BI | Data Analysis & AI-Driven Insights**
 
 📍 Washington, DC  
 📧 marta.development@gmail.com  
