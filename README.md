@@ -1,5 +1,7 @@
 # Hi, I'm Marta Mamo 👋
 
+![](https://github.com/martamathias/martamathias/blob/main/data_analytic.png?raw=true)
+
 **Junior Data Analyst | SQL | Python | Power BI | Data Analysis & AI-Driven Insights**
 
 📍 Washington, DC  
